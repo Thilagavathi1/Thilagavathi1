@@ -2,7 +2,7 @@
 
 #### Happy to see here 😄
 
-I'm Mobile App Developer, working at  ✨ [Spritle](https://www.spritle.com/) ✨.
+I'm Thilagavathi. I'm working at [Spritle](https://www.spritle.com/) as Mobile App Developer.
 I'm a coding passionate that is focused on JavaScript, specifically in React & React-Native.
 Curious to learn new things.
 
