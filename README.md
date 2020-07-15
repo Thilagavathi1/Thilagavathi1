@@ -1,6 +1,9 @@
 ### Hi there 👋
-Happy to see here 😄
+
+## Happy to see here 😄
+
 I'm Mobile App Developer, working at  ✨ Spritle ✨.I'm a coding passionate that is focused on JavaScript, specifically in React & React-Native. 
+
 You can reach me on Twitter and Email.
 <!--
 **Thilagavathi1/Thilagavathi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
