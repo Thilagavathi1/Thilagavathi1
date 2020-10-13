@@ -6,7 +6,7 @@ I'm Thilagavathi,working at [Spritle](https://www.spritle.com/) as Mobile App De
 I'm a coding passionate that is focused on JavaScript, specifically in React & React-Native.
 Curious to learn new things.
 
-You can reach me on [Twitter](https://twitter.com/intent/follow?screen_name=thilagavathi123) and [Email](mailto:rthilagavathi305@gail.com).
+You can reach me on [Twitter](https://twitter.com/intent/follow?screen_name=thilagavathi123) and [Email](mailto:rthilagavathi305@gmail.com).
 
 ![Thilagavathi's github stats](https://github-readme-stats.vercel.app/api?username=Thilagavathi1&show_icons=true)
 <!--
@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://komarev.com/ghpvc/?username=Thilagavathi1)
