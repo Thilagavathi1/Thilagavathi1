@@ -1,9 +1,7 @@
-### Hi there 👋
-
-#### Happy to see here 😄
-
 ![](https://komarev.com/ghpvc/?username=Thilagavathi1)
 
+### Hi there 👋
+#### Happy to see here 😄
 I'm Thilagavathi,working at [Spritle](https://www.spritle.com/) as Mobile App Developer.
 I'm a coding passionate that is focused on JavaScript, specifically in React & React-Native.
 Curious to learn new things.
