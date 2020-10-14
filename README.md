@@ -7,7 +7,7 @@ Curious to learn new things.
 
 You can reach me on [Twitter](https://twitter.com/intent/follow?screen_name=thilagavathi123) and [Email](mailto:rthilagavathi305@gmail.com).
 
-![Thilagavathi's github stats](https://github-readme-stats.vercel.app/api?username=Thilagavathi1&show_icons=true&count_private=true&include_all_commits=tru)
+![Thilagavathi's github stats](https://github-readme-stats.vercel.app/api?username=Thilagavathi1&show_icons=true&count_private=true&include_all_commits=true)
 
 ![Thilagavathi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thilagavathi1&layout=compact&theme=radical)
 
