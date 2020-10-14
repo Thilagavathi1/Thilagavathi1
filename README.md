@@ -1,5 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=Thilagavathi1)
-
 ### Hi there <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 #### Happy to see here 😄
 I'm Thilagavathi,working at [Spritle](https://www.spritle.com/) as Mobile App Developer.
@@ -9,6 +8,9 @@ Curious to learn new things.
 You can reach me on [Twitter](https://twitter.com/intent/follow?screen_name=thilagavathi123) and [Email](mailto:rthilagavathi305@gmail.com).
 
 ![Thilagavathi's github stats](https://github-readme-stats.vercel.app/api?username=Thilagavathi1&show_icons=true&count_private=true&include_all_commits=tru)
+
+![Thilagavathi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thilagavathi1&layout=compact&theme=radical)
+
 <!--
 **Thilagavathi1/Thilagavathi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
