@@ -9,7 +9,9 @@ You can reach me on [Twitter](https://twitter.com/intent/follow?screen_name=thil
 
 ![Thilagavathi's github stats](https://github-readme-stats.vercel.app/api?username=Thilagavathi1&show_icons=true&count_private=true&include_all_commits=truehttps://github-readme-stats.vercel.app/api/top-langs/?username=thilagavathi1&layout=compact&theme=radical)
 
-![Thilagavathi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thilagavathi1&layout=compact&theme=radical)
+![Thilagavathi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Thilagavathi1&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6)
+
+https://activity-graph.herokuapp.com/graph?username=thilagavathi1&custom_title=Thilagavathi%27s%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true
 
 <!--
 **Thilagavathi1/Thilagavathi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
